@@ -82,7 +82,7 @@
 
 ###
 
-<p align="left">[(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](https://mail.google.com/mail/u/2/#inbox?compose=new) LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/)</p>
+<p align="left">[![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](https://mail.google.com/mail/u/2/#inbox?compose=new) LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/)</p>
 
 
 
