@@ -103,5 +103,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
 </div>
-
-###
