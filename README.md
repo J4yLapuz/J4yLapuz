@@ -50,11 +50,7 @@
 
 ###
 
-- [![Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://example.com/oracle_ai_certification_logo.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BC113F88BC25717018537B2F210884DBB1880E3FDDE4602BEE60EDD2033D319D&fbclid=IwAR0t8WRepbgsycp-IVyV2k_m7hOnDF4ONQTNi1SN1MxPYxNUeh_3U5ruQYw)
-- [![Oracle Cloud Data Management 2023 Certified Foundations Associate](https://example.com/oracle_data_management_certification_logo.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A97C867BEC9452E7576082A3E09CE59041E3F1607C324533C5141ECFACC801D2&fbclid=IwAR3_vEnV_KSwcTZaW1YDgHAURP7PU18uIDWZ4fvXBdE-_9XRYA83-hhaIC0)
-- [![Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://example.com/oracle_infrastructure_certification_logo.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12D90C6B91C07C52522B66F5F0F9FF77BF65473A1ADD7E7DD35FBAF895BE5C8B&fbclid=IwAR2anPKpsJR9T1RVA6WjReHgw--UbBw46ZeR_gtRyBrGL0jXjOesQLuvetA)
-- [![SQL and Relational Databases 101](https://example.com/sql_certification_logo.png)](https://courses.cognitiveclass.ai/certificates/6b94b44499424ca386e18fc2e71256a4)
-
+<p align="left">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate (https://catalog-education.oracle.com/pls/certview/sharebadge?id=BC113F88BC25717018537B2F210884DBB1880E3FDDE4602BEE60EDD2033D319D&fbclid=IwAR0t8WRepbgsycp-IVyV2k_m7hOnDF4ONQTNi1SN1MxPYxNUeh_3U5ruQYw)</p>
 
 ###
 
@@ -82,11 +78,17 @@
 
 ###
 
-<p align="left">Gmail: jaycedriclapuz0302@gmail.com<br>
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/)
-
+<p align="left"></p>
 
 ###
 
-<p align="left"></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/2/#inbox?compose=new" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
+###
