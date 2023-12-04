@@ -82,7 +82,8 @@
 
 ###
 
-<p align="left">Gmail: jaycedriclapuz0302@gmail.com<br>- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/)
+<p align="left">Gmail: jaycedriclapuz0302@gmail.com<br>
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lapuz-jay-cedric-d-49849b2a3/)
 
 
 ###
