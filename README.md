@@ -54,7 +54,7 @@
 - [![Oracle Cloud Data Management 2023 Certified Foundations Associate](https://example.com/oracle_data_management_certification_logo.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A97C867BEC9452E7576082A3E09CE59041E3F1607C324533C5141ECFACC801D2&fbclid=IwAR3_vEnV_KSwcTZaW1YDgHAURP7PU18uIDWZ4fvXBdE-_9XRYA83-hhaIC0)
 - [![Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://example.com/oracle_infrastructure_certification_logo.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=12D90C6B91C07C52522B66F5F0F9FF77BF65473A1ADD7E7DD35FBAF895BE5C8B&fbclid=IwAR2anPKpsJR9T1RVA6WjReHgw--UbBw46ZeR_gtRyBrGL0jXjOesQLuvetA)
 - [![SQL and Relational Databases 101](https://example.com/sql_certification_logo.png)](https://courses.cognitiveclass.ai/certificates/6b94b44499424ca386e18fc2e71256a4)
-- [![NoSQL and DBaaS 101](https://example.com/sql_certification_logo.png)]([https://courses.cognitiveclass.ai/certificates/6b94b44499424ca386e18fc2e71256a4](https://courses.cognitiveclass.ai/certificates/e87f556b49ea4f0791e0b25c5c61c2ee))
+- [![NoSQL and DBaaS 101](https://example.com/sql_certification_logo.png)]([https://courses.cognitiveclass.ai/certificates/6b94b44499424ca386e18fc2e71256a4](https://courses.cognitiveclass.ai/certificates/e87f556b49ea4f0791e0b25c5c61c2ee)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
